@@ -1,0 +1,13 @@
+{
+  "skill_name": "elderly_travel_assistant",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "contact": "your-email@example.com",
+  "description": "AI travel planning skill for retired seniors. Low cost, low walking, safe, public transit, with hospital nearby and todo list export.",
+  "skills": [
+    {
+      "name": "senior_travel_skill",
+      "trigger": ["travel", "trip", "itinerary", "plan", "go out", "one day tour", "walk tour", "cheap trip"]
+    }
+  ]
+}
